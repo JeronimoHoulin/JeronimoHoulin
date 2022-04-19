@@ -3,7 +3,7 @@
 ## I am a graduate in Finance and a software enthusiast.
 ## I am currently worinking on many Crypto related proyect as they are a perfect grey area for both Finance and Software.
 
-Hope you like my content !
+Hope you like my content !  
 💬 You can contact me about anything at all in my social media links below !
 <!--
 **JeronimoHoulin/JeronimoHoulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
