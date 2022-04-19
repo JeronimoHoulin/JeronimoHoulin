@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+#STATS:
 ![Jerrys's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeronimoHoulin&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeronimoHoulin)](https://git.io/streak-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
