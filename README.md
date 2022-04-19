@@ -1,4 +1,5 @@
-![Jerónimo_Houlin](https://user-images.githubusercontent.com/79488175/163994117-77ead2bb-76b6-4ea7-abe6-1ace8f2ddb16.png)
+<!--![Jerónimo_Houlin](https://user-images.githubusercontent.com/79488175/163994117-77ead2bb-76b6-4ea7-abe6-1ace8f2ddb16.png)-->
+![header](https://user-images.githubusercontent.com/79488175/163996107-23f57600-5fc4-4760-9cd4-e20f79f4fb88.png)
 
 ## I am a graduate in Finance and a software enthusiast.
 ## I am currently working on many Crypto related proyect as they are a perfect grey area for both Finance and Software.
