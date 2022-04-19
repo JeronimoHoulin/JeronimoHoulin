@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeronimoHoulin&theme=radical)](https://git.io/streak-stats)  
 
 <h3 align="left">Languages and Tools:</h3>
+<div style="display:felx; flex-direction: column">
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" />
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+</div>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
