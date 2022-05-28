@@ -28,7 +28,7 @@ Hope you like my content.
 <p align="left">
 <!-- <a href="your link"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/jh100/" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="jeronimo.houlin@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.js" alt="" height="30" width="40" /></a>
+<a href="jeronimo.houlin@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 </p>
 
 # GH STATS:  
