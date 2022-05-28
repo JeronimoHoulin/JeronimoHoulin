@@ -36,7 +36,7 @@ Hope you like my content.
 <a height="50" width="50" href="https://padtracker.herokuapp.com/">&#128202</a>
 </p>
 
-# GH STATS:  
+<!--# GH STATS: -->
   
 ![Jerrys's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeronimoHoulin&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeronimoHoulin&theme=radical)](https://git.io/streak-stats)  
