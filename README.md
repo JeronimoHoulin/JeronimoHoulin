@@ -27,7 +27,7 @@ Hope you like my content.
 <h3 align="left">Socials:</h3>
 <p align="left">
 <!-- <a href="your link"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
-<a height="50" width="50" href="https://www.linkedin.com/in/jh100/">&#128209</a>
+<a height="510" width="50" href="https://www.linkedin.com/in/jh100/">&#128209</a>
 <a height="50" width="50" href="jeronimo.houlin@gmail.com">&#128235</a>
 <a height="50" width="50" href="https://discord/users/887736313237889116">&#128126</a>
   
