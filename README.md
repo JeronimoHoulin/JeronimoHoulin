@@ -27,13 +27,13 @@ Hope you like my content.
 <h3 align="left">Socials:</h3>
 <p align="left">
 <!-- <a href="your link"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/jh100/" >&#128209</a>
-<a href="jeronimo.houlin@gmail.com">&#128235</a>
-<a href="https://discord/users/887736313237889116">&#128126</a>
+<a height="30" width="40" href="https://www.linkedin.com/in/jh100/">&#128209</a>
+<a height="30" width="40" href="jeronimo.houlin@gmail.com">&#128235</a>
+<a height="30" width="40" href="https://discord/users/887736313237889116">&#128126</a>
   
 <h3 align="left">Apps:</h3>
-<a href="https://spltracker.herokuapp.com/">&#128376</a>
-<a href="https://padtracker.herokuapp.com/">&#128202</a>
+<a height="30" width="40" href="https://spltracker.herokuapp.com/">&#128376</a>
+<a height="30" width="40" href="https://padtracker.herokuapp.com/">&#128202</a>
 </p>
 
 # GH STATS:  
