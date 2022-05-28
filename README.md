@@ -3,10 +3,10 @@
 # 👋, I'm Jerónimo Houlin. <br />   > Graduate in Finance and a software enthusiast.
 ## ✨I am currently working on many Crypto related proyect as they are a perfect grey area for both Finance and Software.✨
 
-🔭 I’m currently working on Fennec, a real benchmark for interest rates in crypto. 
-🌱 I’m currently learning Solidity, Rust, Haskell, Algorand's Pyteal Python library for smart contract and more. 
-💬 You can get to me through any of the socials below. 
-⚡ Fun fact: I've always wanted to become a pro skater, and still do, just not commiting on getting myself hurt like I used to!
+🔭 I’m currently working on Fennec, a real benchmark for interest rates in crypto.<br />
+🌱 I’m currently learning Solidity, Rust, Haskell, Algorand's Pyteal Python library for smart contract and more.<br />
+💬 You can get to me through any of the socials below.<br />
+⚡ Fun fact: I've always wanted to become a pro skater, and still do, just not commiting on getting myself hurt like I used to!<br />
 
 Hope you like my content.
 
