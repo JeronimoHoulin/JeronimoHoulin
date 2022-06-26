@@ -22,6 +22,7 @@ Hope you like my content.
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img style="width:50px; height:50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg"/>
 </div>
 
 <h3 align="left">Socials:</h3>
