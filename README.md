@@ -13,17 +13,17 @@ Hope you like my content.
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display:felx; flex-direction: column">
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   </img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">   </img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg">   </img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">   </img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">   </img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">   </img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">   </img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">   </img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">   </img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">   </img>
-<img style="width:50px; height:50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg">   </img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;&nbsp;</img>
 </div>
 
 <h3 align="left">Socials:</h3>
