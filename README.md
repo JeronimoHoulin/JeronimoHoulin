@@ -14,10 +14,10 @@ Hope you like my content.
 <h3 align="left">Languages and Tools:</h3>
 <div style="display:felx; flex-direction: column">
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;</img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;</img>
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg">&nbsp;&nbsp;&nbsp;</img>
-<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">&nbsp;&nbsp;&nbsp;</img>
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;</img>
+<img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">&nbsp;&nbsp;&nbsp;</img>
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">&nbsp;&nbsp;&nbsp;</img>
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">&nbsp;&nbsp;&nbsp;</img>
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;</img>
