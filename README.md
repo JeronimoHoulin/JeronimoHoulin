@@ -7,9 +7,6 @@
 🌱 I’m currently learning Rust.<br />
 <br />
 
-Hope you like my content.
-
-
 <h3 align="left">Languages and Tools:</h3>
 <div style="display:felx; flex-direction: column">
 <img style="width:50px; height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;</img>
