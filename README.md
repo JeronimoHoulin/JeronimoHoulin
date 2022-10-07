@@ -1,7 +1,7 @@
 <!--![Jerónimo_Houlin](https://user-images.githubusercontent.com/79488175/163994117-77ead2bb-76b6-4ea7-abe6-1ace8f2ddb16.png)-->
 <!--![image](https://user-images.githubusercontent.com/79488175/163999168-cd14079a-47a0-40af-9ce3-0c37b4bc5f89.png)-->
-# 👋, I'm Jerónimo Houlin. <br />   > Graduate in Finance and a software enthusiast.
-## ✨I am currently working on Crypto related proyect as they are a perfect grey area for both Finance and Software.✨
+# 👋, I'm Jerónimo Houlin. <br />   > Graduate with a degree in Finance and Data analyst in Web3.
+## ✨I am currently working on Crypto related proyect as they are a perfect grey area for both Finance and Software. Aiming to become a sort of quant in DeFi :). ✨
 
 🔭 I’m currently working on Fennec, a benchmark for interest rates in crypto.<br />
 🌱 I’m currently learning Rust.<br />
