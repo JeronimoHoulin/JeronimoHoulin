@@ -3,8 +3,8 @@
 # 👋, I'm Jerónimo Houlin. <br />   > Graduate with a degree in Finance and DeFi Analyst in Web3.
 ## ✨I am currently working on Crypto related proyects as they are a perfect grey area for both Finance and Software. ✨
 
-🔭 I’m currently working on Fennec, a benchmark for interest rate for stable coins.<br />
-🌱 I’m currently learning Rust.<br />
+🔭 I’m currently working at [karpatkey]([url](https://www.karpatkey.com/)) (KPK) doing Non-Custodial Treasury Management.<br />
+🌱 Love building EVM projects with Python, Solidity and more!<br />
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
