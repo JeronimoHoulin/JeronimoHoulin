@@ -1,6 +1,6 @@
 <!--![Jerónimo_Houlin](https://user-images.githubusercontent.com/79488175/163994117-77ead2bb-76b6-4ea7-abe6-1ace8f2ddb16.png)-->
 <!--![image](https://user-images.githubusercontent.com/79488175/163999168-cd14079a-47a0-40af-9ce3-0c37b4bc5f89.png)-->
-# 👋, I'm Jerónimo Houlin. <br />   > Graduate with a degree in Finance and DeFi Analyst in Web3.
+# 👋, I'm Jerry. <br />   > Graduate with a degree in Finance and DeFi Analyst in Web3.
 ## ✨I am currently working on Crypto related proyects as they are a perfect grey area for both Finance and Software. ✨
 
 🔭 I’m currently working at [karpatkey](https://www.karpatkey.com/) (KPK) doing Non-Custodial Treasury Management.<br />
