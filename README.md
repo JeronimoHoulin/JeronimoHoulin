@@ -27,7 +27,10 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a height="50" width="50" href="https://www.linkedin.com/in/jh100/">LinkedIn &#128209 !</a>
+<a height="50" width="50" href="https://www.linkedin.com/in/jh100">LinkedIn</a>
+<a height="50" width="50" href="https://medium.com/@jeronimo.houlin">Medium</a>
+<a height="50" width="50" href="https://x.com/jerrythekid">Twitter</a>
+
   
 </p>
 
