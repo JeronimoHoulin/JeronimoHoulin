@@ -26,9 +26,9 @@
 </div>
 
 
-  
 </p>
 <h3 align="left">GH stats:</h3>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeronimoHoulin&theme=radical)](https://git.io/streak-stats)  
 
 
