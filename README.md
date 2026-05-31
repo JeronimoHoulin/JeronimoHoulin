@@ -25,14 +25,16 @@
 <img style="width:50px; height:50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;&nbsp;</img>
 </div>
 
+
+  
+</p>
+<h3 align="left">GH stats:</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeronimoHoulin&theme=radical)](https://git.io/streak-stats)  
+
+
+</p>
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a height="50" width="50" href="https://www.linkedin.com/in/jh100">LinkedIn</a>
 <a height="50" width="50" href="https://medium.com/@jeronimo.houlin">Medium</a>
 <a height="50" width="50" href="https://x.com/jerrythekid">Twitter</a>
-
-  
-</p>
-
-<!--# GH STATS: -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeronimoHoulin&theme=radical)](https://git.io/streak-stats)  
